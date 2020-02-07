@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">javadex</string>
+    <string-array name="nomes">
+        <item>Pikachu</item>
+        <item>Pichu</item>
+        <item>Raichu</item>
+    </string-array>
+    <string name="tipo">Type: Electric</string>
+    <string name="n">N: #025</string>
+    <string name="statik">Static: The opponent has a 30% chance of being induced with PARALYZE when using an attack, that requires physical contact, against this Pokémon.</string>
+    <string name="raio">Lightningrod: Electric-type moves are drawn to this Pokémon. Electric-type moves will do no damage and the Pokémon\'s SP ATK is raised one stage.</string>
+    <string name="vida">HP: 35 </string>
+    <string name="attack">Attack: 55</string>
+    <string name="defesa">Defense: 40</string>
+    <string name="spataque">Sp.Attack: 50</string>
+    <string name="spdefesa">Sp.Defense: 50</string>
+    <string name="gaz">Speed: 90</string>
+    <string-array name="pichu">
+
+        <item>Nº: #172</item>
+        <item>HP: 20</item>
+        <item>Attack: 40</item>
+        <item>Defense: 15</item>
+        <item>Sp.Attack: 35</item>
+        <item>Sp.Defense: 35</item>
+        <item>Speed: 60</item>
+    </string-array>
+    <string-array name="raichu">
+
+        <item>Nº: #026</item>
+        <item>HP: 60</item>
+        <item>Attack: 90</item>
+        <item>Defense: 55</item>
+        <item>Sp.Attack: 90</item>
+        <item>Sp.Defense: 80</item>
+        <item>Speed: 110</item>
+    </string-array>
+</resources>
